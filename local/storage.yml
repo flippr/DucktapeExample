@@ -1,0 +1,3 @@
+default:
+  connector: DTMySQLDatabase
+  dsn: "mysql://ducktape:DuckTape1!@localhost/ducktape"
