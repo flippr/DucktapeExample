@@ -1,6 +1,6 @@
 <?php
 
-require_once dirname(__FILE__)."/../../ducktape.php/ducktape.inc.php";
+require_once dirname(__FILE__)."/../ducktape.php/ducktape.inc.php";
 dt_load_module("consumers_oauth");
 
 $project_name = 'Ducktape Example';
